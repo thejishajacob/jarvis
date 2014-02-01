@@ -23,6 +23,6 @@ def greeting(now):
     if now_UTC.hour < 12:
         system('say Good morning Jisha! Today is %s, %s %s, and the current time is %s.' % (weekday, month, now.day, hour))
     elif now_UTC.hour >= 12 and now_UTC.hour < 16:
-        system('say Good afternoon Jisha! Today is %s, %s %s, and the current time is %s.' % (weekday, month, now.day, hour))
+        system('say Good afternoon Jisha S. Jacob! Today is %s, %s %s, and the current time is %s.' % (weekday, month, now.day, hour))
     else:
         system('say Good evening Jisha! Today is %s, %s %s, and the current time is %s.' % (weekday, month, now.day, hour))
