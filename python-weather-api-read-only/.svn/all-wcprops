@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/152/trunk
+END
+pywapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/152/trunk/pywapi.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/130/trunk/LICENSE
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/105/trunk/MANIFEST
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/152/trunk/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/146/trunk/setup.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/152/trunk/README
+END
